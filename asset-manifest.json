@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//aizendaisho.github.io/agenda-viajes/static/css/main.ef32198d.css",
+    "main.js": "//aizendaisho.github.io/agenda-viajes/static/js/main.53945fc0.js",
+    "index.html": "//aizendaisho.github.io/agenda-viajes/index.html",
+    "main.ef32198d.css.map": "//aizendaisho.github.io/agenda-viajes/static/css/main.ef32198d.css.map",
+    "main.53945fc0.js.map": "//aizendaisho.github.io/agenda-viajes/static/js/main.53945fc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef32198d.css",
+    "static/js/main.53945fc0.js"
+  ]
+}
