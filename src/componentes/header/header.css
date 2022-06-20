@@ -1,0 +1,23 @@
+.cabecera{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;      
+    text-align: center;
+    width: 550;
+    height: 704;
+    color: white;
+    background-color: hsl(0, 89%, 66%);
+    font-weight: lighter;
+    font-size: 14.5px;
+}
+
+.imagen{
+    color: #F55A5A;
+    width: 24px;
+    height: 24px;
+}
+
+
+
+

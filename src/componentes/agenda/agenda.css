@@ -1,0 +1,55 @@
+.contenedor-primario{
+    display: flex;
+    padding: 20px;
+    gap: 1rem;
+}
+
+
+.informacion{
+    display: flex;
+    flex-direction: column;
+    min-width: 350px;
+    
+    
+    
+}
+
+.imagen-agenda{
+    width: 245px;
+    height: 288px;
+
+    border-radius: 10px;
+    
+}
+
+.loca{
+height: 20px;
+}
+
+.localitation-info{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.pais{
+    text-transform: uppercase;
+    color: #2B283A;
+}
+.google{
+    color: #918E9B;
+    text-decoration: underline;
+}
+.locacion{
+    margin: 0;
+    font-weight: 800;
+    margin-bottom: 20px;
+
+}
+.fecha{
+    margin: 0;
+    margin-bottom: 10px;
+}
+.descripcion{
+    margin: 0;
+}
